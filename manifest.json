@@ -1,0 +1,15 @@
+{
+    "name": "AWS ECS TASK CONNECT",
+    "version": "1.0.0",
+    "description": "",
+    "manifest_version": 3,
+    "author": "Kamran Biglari",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "AWS ECS TASK CONNECT"
+    },
+    "permissions": [
+        "scripting",
+        "activeTab"
+    ]
+}
